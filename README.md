@@ -1,1 +1,1 @@
-# sneakpeek_application
+# Sneakpeek Application
